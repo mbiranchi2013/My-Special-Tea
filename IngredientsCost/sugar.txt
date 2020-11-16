@@ -1,1 +1,1 @@
-sugar cost: 2 rupees
+sugar cost: 4 rupees
